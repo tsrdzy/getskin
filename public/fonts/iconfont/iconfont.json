@@ -1,0 +1,86 @@
+{
+  "id": "4586151",
+  "name": "mcbox-GetSkin",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1613593",
+      "name": "邮箱",
+      "font_class": "youxiang",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "4936984",
+      "name": "QQ",
+      "font_class": "QQ",
+      "unicode": "e882",
+      "unicode_decimal": 59522
+    },
+    {
+      "icon_id": "11125639",
+      "name": "论坛",
+      "font_class": "14",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "12993669",
+      "name": "wiki",
+      "font_class": "wiki",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "20853345",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "2076214",
+      "name": "暂停",
+      "font_class": "zanting1",
+      "unicode": "e87a",
+      "unicode_decimal": 59514
+    },
+    {
+      "icon_id": "2869787",
+      "name": "01_stand",
+      "font_class": "_stand",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "6469511",
+      "name": "走路",
+      "font_class": "zoulu",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "6775452",
+      "name": "步行",
+      "font_class": "yiliaohangyedeICON-",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "14227050",
+      "name": "启动",
+      "font_class": "qidong1",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    },
+    {
+      "icon_id": "19541268",
+      "name": "站立",
+      "font_class": "zhanli",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    }
+  ]
+}
